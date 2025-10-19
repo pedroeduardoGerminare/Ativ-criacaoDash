@@ -143,6 +143,8 @@ Replicando o modelo da imagem, insiram:
 
 ### Desafios de Análise de Dados para a Dupla 🤔📊
 
+## Perguntas Estão respondidas no arquivo Atividade_relatorio_PowerBI.docx
+
 1. 🏆 **Qual loja teve o maior faturamento total no período? Como você chegou a esse resultado usando os relatórios?**
 R: 
 
@@ -172,3 +174,5 @@ R:
 
 10. ⏳ **Como foi o desempenho ano a ano de um vendedor específico? Selecione no filtro e analise no gráfico de linha.**
 R:
+
+## Perguntas Estão respondidas no arquivo Atividade_relatorio_PowerBI.docx
